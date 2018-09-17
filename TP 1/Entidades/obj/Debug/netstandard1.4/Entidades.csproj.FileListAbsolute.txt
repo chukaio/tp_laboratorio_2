@@ -1,0 +1,8 @@
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
