@@ -1,0 +1,33 @@
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\pablo\Desktop\Laboratorio 2\Solucion\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\sirenia\Downloads\tp_laboratorio_2-master.rar\tp_laboratorio_2-master\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+H:\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+H:\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+H:\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+H:\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+H:\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+H:\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfoInputs.cache
+H:\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+H:\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+H:\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\sirenia\Desktop\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\sirenia\Desktop\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\sirenia\Desktop\TP 1\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\sirenia\Desktop\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\sirenia\Desktop\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sirenia\Desktop\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\sirenia\Desktop\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\sirenia\Desktop\TP 1\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
