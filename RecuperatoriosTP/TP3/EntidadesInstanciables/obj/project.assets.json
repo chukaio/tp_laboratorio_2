@@ -235,11 +235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
       "projectName": "EntidadesInstanciables",
-      "projectPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
+      "projectPath": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesInstanciables\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesInstanciables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -258,11 +258,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\Archivos.csproj": {
-              "projectPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\Archivos.csproj"
+            "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\Archivos.csproj": {
+              "projectPath": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\Archivos.csproj"
             },
-            "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj": {
-              "projectPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj"
+            "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj": {
+              "projectPath": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj"
             }
           }
         }

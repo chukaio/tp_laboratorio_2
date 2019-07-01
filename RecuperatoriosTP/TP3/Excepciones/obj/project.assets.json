@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj",
       "projectName": "Excepciones",
-      "projectPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj",
+      "projectPath": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Downloads\\tp_laboratorio_2-master (5)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
