@@ -1,0 +1,17 @@
+ALUMNOS:
+NOMBRE COMPLETO Joaquin Suarez
+DNI: 91122456
+NACIONALIDAD: Extranjero
+
+CLASE: Laboratorio
+ESTADO CUENTA: AlDia
+ 
+CLASE: Laboratorio
+INSTRUCTOR: NOMBRE COMPLETO Juan Lopez
+DNI: 12234456
+NACIONALIDAD: Argentino
+
+CLASES DEL DIA
+Laboratorio Programacion 
+
+

@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\Torretta.Pablo.2D.TP3\\Archivos\\Archivos.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\Archivos.csproj",
       "projectName": "Archivos",
-      "projectPath": "C:\\Users\\pablo\\source\\repos\\Torretta.Pablo.2D.TP3\\Archivos\\Archivos.csproj",
+      "projectPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\Archivos.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\source\\repos\\Torretta.Pablo.2D.TP3\\Archivos\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Archivos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\pablo\\source\\repos\\Torretta.Pablo.2D.TP3\\Excepciones\\Excepciones.csproj": {
-              "projectPath": "C:\\Users\\pablo\\source\\repos\\Torretta.Pablo.2D.TP3\\Excepciones\\Excepciones.csproj"
+            "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "C:\\Users\\pablo\\Desktop\\tp_laboratorio_2-master (4)\\tp_laboratorio_2-master\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj"
             }
           }
         }

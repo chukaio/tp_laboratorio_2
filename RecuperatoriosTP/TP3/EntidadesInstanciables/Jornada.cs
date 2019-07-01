@@ -28,8 +28,8 @@ namespace EntidadesInstanciables
         /// </summary>
         public List<Alumno> Alumnos
         {
-            get { return alumnos; }
-            set { alumnos = value; }
+            get { return this.alumnos; }
+            set { this.alumnos = value; }
         }
 
         /// <summary>
@@ -68,7 +68,7 @@ namespace EntidadesInstanciables
         /// <summary>
         /// Constructor parametrizado
         /// </summary>
-        public Jornada(EClases clase, Profesor instructor)
+        public Jornada(EClases clase, Profesor instructor):this()
         {
             this.Clase = clase;
             this.Instructor = instructor;
