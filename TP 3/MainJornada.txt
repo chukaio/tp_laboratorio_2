@@ -1,0 +1,23 @@
+ALUMNOS:
+NOMBRE COMPLETO Juan Lopez
+DNI: 12234456
+NACIONALIDAD: Argentino
+
+CLASE: Programacion
+ESTADO CUENTA: Becado
+ NOMBRE COMPLETO Carlos Gonzalez
+DNI: 12236456
+NACIONALIDAD: Argentino
+
+CLASE: Programacion
+ESTADO CUENTA: AlDia
+ 
+CLASE: Programacion
+INSTRUCTOR: NOMBRE COMPLETO Juan Lopez
+DNI: 12234456
+NACIONALIDAD: Argentino
+
+CLASES DEL DIA
+Programacion Legislacion 
+
+

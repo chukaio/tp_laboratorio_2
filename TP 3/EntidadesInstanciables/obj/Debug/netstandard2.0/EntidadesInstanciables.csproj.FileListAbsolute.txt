@@ -1,0 +1,64 @@
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\Desktop\tp_laboratorio_2-master (4)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\Downloads\tp_laboratorio_2-master (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+C:\Users\pablo\Desktop\Tps Laboratorio 2\RecuperatoriosTP\TP3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb
