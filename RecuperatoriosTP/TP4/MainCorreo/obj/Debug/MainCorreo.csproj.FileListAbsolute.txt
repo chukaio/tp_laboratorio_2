@@ -1,0 +1,26 @@
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\pablo\source\repos\Torretta.Pablo.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\MainCorreo\obj\Debug\MainCorreo.pdb
