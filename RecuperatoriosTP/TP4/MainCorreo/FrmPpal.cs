@@ -59,11 +59,21 @@ namespace MainCorreo
         /// <param name="elemento"></param>
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
-            if (!correo.Equals(null))
+            if(!(elemento is null))
             {
                 this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
-                this.rtbMostrar.Text.Guardar("salida.txt");
-            }
+                if(elemento is Correo)
+                {
+                    try
+                    {
+                        this.rtbMostrar.Text.Guardar("salida.txt");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+                }                
+            }            
         }
 
         /// <summary>

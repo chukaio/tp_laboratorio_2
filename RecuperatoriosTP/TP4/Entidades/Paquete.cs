@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using System.Windows.Forms;
 
 namespace Entidades
 {
@@ -173,7 +174,14 @@ namespace Entidades
                 this.Estado++;
                 this.InformaEstado(this.Estado, EventArgs.Empty);
             }
-            PaqueteDAO.Insertar(this);
+            try
+            {
+                PaqueteDAO.Insertar(this);
+            }
+            catch (InsertarSQLExcepcion e)
+            {
+                MessageBox.Show(e.Message);
+            }
         }
         #endregion
 

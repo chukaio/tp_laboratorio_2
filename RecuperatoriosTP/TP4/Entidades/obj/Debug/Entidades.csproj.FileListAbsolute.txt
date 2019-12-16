@@ -10,3 +10,9 @@ C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\Entidades\obj\Debug\Entidades.cspr
 C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\Entidades\obj\Debug\Entidades.dll
 C:\Users\pablo\Desktop\Tps Laboratorio 2\TP 4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pablo\Desktop\New folder (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\pablo\Desktop\New folder (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pablo\Desktop\New folder (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\pablo\Desktop\New folder (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\New folder (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\pablo\Desktop\New folder (5)\tp_laboratorio_2-master\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.pdb

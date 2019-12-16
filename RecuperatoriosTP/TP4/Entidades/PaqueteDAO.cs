@@ -52,7 +52,7 @@ namespace Entidades
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw new InsertarSQLExcepcion("Se ha producido un error al guardar en la base de datos", ex);
             }
             finally
             {
